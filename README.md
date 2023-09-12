@@ -7,6 +7,6 @@
 
 --- 
 <h2>Contato </h2>
-<p> Confira meus [projetos](https://github.com/GabrielFerrazDev?tab=repositories) e o meu [LinkedIn](https://www.linkedin.com/in/gabriel-ferraz-42a237264/). </p>
+<p> Confira meus <a href='https://github.com/GabrielFerrazDev?tab=repositories'> projetos </a> e o meu  <a href='https://www.linkedin.com/in/gabriel-ferraz-42a237264/'> LinkedIn </a>. </p>
 
 
